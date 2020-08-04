@@ -12,7 +12,7 @@ const Home = () => (
 
     <h3>Sean's Lab for learning <a href="https://nextjs.org/">Next.js</a> and <a href="https://jamstack.org/">Jamstack</a> on <a href="https://www.netlify.com/">Netlify</a>.</h3>
 
-    <p><a href="https://www.hamorhollow.com/">Hamor Hollow Hedgehogs</a> | <a href="https://hamor.com/">Hamor Photography</a></p>
+    <p><a href="https://www.hamorhollow.com/">Hamor Hollow Hedgehogs</a> | <a href="https://hamor.com/">Hamor Photography</a> | <a href="https://seansosikhamor.github.io/">Sean on GitHub</a></p>
 
     <style jsx>{`
       :global(html,body) {
