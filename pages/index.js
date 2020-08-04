@@ -5,7 +5,7 @@ const Home = () => (
   <div>
     <h1>SHN.nu — Sosik-Hamor Networks</h1>
 
-    <h3>Sean's Lab for learning [Next.js](https://nextjs.org/) and [JAMstack](https://jamstack.org/) on [Netlify](https://www.netlify.com/).</h3>
+    <h3>Sean's Lab for learning <a href="https://nextjs.org/">Next.js</a> and <a href="https://jamstack.org/">JAMstack</a> on <a href="https://www.netlify.com/">Netlify</a>.</h3>
 
     <style jsx>{`
       :global(html,body) {
