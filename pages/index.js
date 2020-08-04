@@ -3,9 +3,16 @@ import Head from 'next/head'
 
 const Home = () => (
   <div>
+    <Head>
+      <title>Sosik-Hamor Networks</title>
+      <meta property="og:title" content="Sosik-Hamor Networks" key="title" />
+    </Head>
+
     <h1>SHN.nu — Sosik-Hamor Networks</h1>
 
-    <h3>Sean's Lab for learning <a href="https://nextjs.org/">Next.js</a> and <a href="https://jamstack.org/">JAMstack</a> on <a href="https://www.netlify.com/">Netlify</a>.</h3>
+    <h3>Sean's Lab for learning <a href="https://nextjs.org/">Next.js</a> and <a href="https://jamstack.org/">Jamstack</a> on <a href="https://www.netlify.com/">Netlify</a>.</h3>
+
+    <p><a href="https://www.hamorhollow.com/">Hamor Hollow Hedgehogs</a> | <a href="https://hamor.com/">Hamor Photography</a></p>
 
     <style jsx>{`
       :global(html,body) {
