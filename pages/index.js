@@ -14,6 +14,8 @@ const Home = () => (
 
     <p><a href="https://www.hamorhollow.com/">Hamor Hollow Hedgehogs</a> | <a href="https://hamor.com/">Hamor Photography</a> | <a href="https://seansosikhamor.github.io/">Sean on GitHub</a></p>
 
+    <p>Other labs can be found at <a href="https://seansosikhamor.github.io/">SeanSosikHamor.GitHub.io</a>.</p>
+
     <style jsx>{`
       :global(html,body) {
         margin: 0;
