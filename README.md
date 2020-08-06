@@ -1,3 +1,3 @@
-# SHN.nu-Next.js-JAMstack
+# Website-SHN.nu
 
-Sosik-Hamor Networks's Next.js JAMstack website.
+Sean's Lab for learning [Next.js](https://nextjs.org/) and [Jamstack](https://jamstack.org/) on [Netlify](https://www.netlify.com/).
