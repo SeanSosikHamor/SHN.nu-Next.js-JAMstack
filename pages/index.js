@@ -4,11 +4,11 @@ import Head from 'next/head'
 const Home = () => (
   <div>
     <Head>
-      <title>Sosik-Hamor Networks</title>
-      <meta property="og:title" content="Sosik-Hamor Networks" key="title" />
+      <title>Sosik-Hamor Networks Next.js Lab</title>
+      <meta property="og:title" content="Sosik-Hamor Networks Next.js Lab" key="title" />
     </Head>
 
-    <h1>SHN.nu — Sosik-Hamor Networks</h1>
+    <h1>nextjs.SHN.nu — Sosik-Hamor Networks</h1>
 
     <h3>Sean's Lab for learning <a href="https://nextjs.org/">Next.js</a> and <a href="https://jamstack.org/">Jamstack</a> on <a href="https://www.netlify.com/">Netlify</a>.</h3>
 
